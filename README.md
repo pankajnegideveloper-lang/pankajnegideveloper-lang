@@ -80,9 +80,8 @@ I'm focused on building production-ready applications that combine:
 
 ## 📫 Connect With Me
 
-* LinkedIn: [Add your LinkedIn]
-* Portfolio: [Add your portfolio]
-* Email: [Add your professional email]
+* Portfolio: [ https://www.crio.do/learn/portfolio/negi60239/?edit=true ]
+* Email: [ pankajnegi.developer@gmail.com ]
 
 ---
 
